@@ -9,7 +9,7 @@ margin: 0;
 #outer {
 width: 300px;
 height: 300px;
-background-color: #ff0000;
+background-color: rgb(255, 165, 0);
 border-radius: 50%;
 display: flex;
 justify-content: center;
@@ -39,8 +39,8 @@ z-index: 3;
 }
 
 #middle {
-width: 150px;
-height: 150px;
+width: 200px;
+height: 200px;
 background-color: #008000;
 border-radius: 50%;
 display: flex;
@@ -71,8 +71,8 @@ z-index: 5;
 }
 
 #inner {
-width: 50px;
-height: 50px;
+width: 100px;
+height: 100px;
 background-color: #800080;
 border-radius: 50%;
 }
